@@ -1,3 +1,38 @@
 h1 {
   text-align: center;
+  margin-top: 50px !important;
+  font-size: 40px !important;
+  padding: 30px;
+}
+
+.croissant-quote {
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+  margin: 50px auto;
+}
+.contact-info {
+  text-align: center;
+}
+.email-link {
+  display: block;
+  text-align: center;
+  font-size: 20px;
+  margin: 30px auto;
+}
+.about-croissant {
+  text-align: center;
+  line-height: 1.4;
+}
+
+#buttons {
+  margin-top: 80px;
+}
+
+#home-button {
+  display: block;
+  margin: 40px auto;
+}
+#image-croissant {
+  margin: 30px auto 60px;
 }
